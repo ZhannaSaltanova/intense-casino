@@ -277,6 +277,7 @@ body {
     .banner {
         height: auto;
         gap:20px;
+        background-image:none;
     }
     .banner__box {
         padding-left: 20px;
